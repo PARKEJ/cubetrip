@@ -1,6 +1,4 @@
-<!--  commit test -->
-<!--  commit test2 -->
-<!--  commit test3 -->
+<!-- git push test 001 -->
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -272,5 +270,4 @@
 	</footer>
 	<%@ include file="/WEB-INF/include/include-footer.jspf"%>
 </body>
-
 </html>
